@@ -1,110 +1,165 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+    🧩 VISÃO DO DIA A DIA
 
-</p>
+Como é o trabalho de um(a) Cientista de Dados em Crédito/Financeiro:
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+Construir e validar modelos de score de crédito e risco
 
-<br/>
-<br/>
+Analisar grandes volumes de dados financeiros para gerar insights
 
-## 💻 Sobre o Projeto
+Trabalhar com times de negócio (Crédito, Cobrança, Produtos)
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Desenvolver pipelines de dados em ambientes como DataBricks
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+Monitorar performance de modelos (PD, LGD, EAD, inadimplência)
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+Estatística aplicada (probabilidade, regressão, testes de hipótese)
 
-- _Exemplo_:
+Machine Learning supervisionado (classificação principalmente)
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+Manipulação e modelagem de dados
 
-- [Outros pré-requisitos, se aplicável]
+NICE-TO-HAVE (complementares):
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+Conhecimento regulatório (Basileia, IFRS9)
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+Engenharia de dados básica (pipelines, Spark)
 
-- [Lista das habilidades principais a serem desenvolvidas]
+FERRAMENTAS E TECNOLOGIAS:
 
-  - [Subhabilidades relacionadas, se aplicável]
+SAS (modelagem tradicional e risco)
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+DataBricks (Spark, notebooks)
 
-## 🎯 Objetivos e Resultados Esperados
+Python (pandas, sklearn, xgboost)
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+📅 ROADMAP DE 90 DIAS
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+ADAPTADO PARA: 18 horas/semana
 
-<!--START_SECTION:footer-->
+(Como você tem mais de 15h, incluí aprofundamento técnico e projeto robusto.)
 
-<br />
-<br />
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+Revisão de Estatística (distribuições, probabilidade, AUC, KS)
+
+SQL intermediário (joins complexos, window functions)
+
+SEMANA 3-4:
+
+Regressão logística aplicada a crédito
+
+Introdução a Machine Learning com foco em classificação
+
+Primeiros modelos no SAS e Python
+
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+
+Feature Engineering para crédito (WOE, IV, binning)
+
+Construção de modelo de score no Python
+
+Avaliação com AUC, KS, matriz de confusão
+
+SEMANA 7-8:
+
+Implementação do mesmo modelo no DataBricks (Spark)
+
+Introdução a MLflow
+
+Comparação entre SAS vs Python vs Spark
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Estruturar projeto completo de risco de crédito
+
+Criar documentação técnica estilo PRD/model documentation
+
+SEMANA 11-12:
+
+Simulações de entrevistas técnicas
+
+Estudo de cases de crédito reais
+
+Refinamento do GitHub e LinkedIn técnico
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO:
+
+Credit Risk Scoring End-to-End (SAS + Python + DataBricks)
+
+O QUE FAZER:
+
+Criar um modelo de score de crédito usando base pública (ex: dados simulados de empréstimos).
+Construir pipeline completo: limpeza → feature engineering → modelagem → validação → relatório executivo.
+
+ENTREGÁVEIS:
+
+Notebook Python com modelo treinado
+
+Versão Spark no DataBricks
+
+Documento técnico explicando variáveis e métricas
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+AUC > 0.70
+
+Explicação clara das variáveis mais importantes
+
+Documentação estilo área de Risco (profissional)
+
+DICA:
+
+Explique no projeto por que o modelo é confiável para decisão de crédito, não apenas como ele funciona. Isso diferencia júnior de profissional pronto para crescimento.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: O que é AUC e por que ela é importante?
+
+COMO RESPONDER:
+“A AUC mede a capacidade do modelo distinguir bons e maus pagadores. Em crédito, ela é importante porque precisamos separar risco alto de risco baixo com consistência.”
+
+PERGUNTA 2: O que é regressão logística?
+
+COMO RESPONDER:
+“É um modelo estatístico usado para prever probabilidade de evento binário, como inadimplência. Ele estima a probabilidade usando função logística.”
+
+PERGUNTA 3: O que é overfitting?
+
+COMO RESPONDER:
+“É quando o modelo aprende o ruído do treino e perde capacidade de generalização. Evito isso com validação cruzada e regularização.”
+
+PERGUNTA 4: Qual a diferença entre SAS e Python?
+
+COMO RESPONDER:
+“SAS é muito forte e tradicional em risco regulatório. Python é mais flexível e tem maior ecossistema de ML. Muitas instituições usam ambos.”
+
+PERGUNTA 5: Como você explicaria um modelo para área de negócio?
+
+COMO RESPONDER:
+“Eu traduziria métricas técnicas em impacto financeiro, mostrando redução de inadimplência ou melhora na aprovação segura.”
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA:
+
+Bootcamp Ciência de Dados com Python
+
+POR QUE ESSA TRILHA:
+
+Ela reforça fundamentos de estatística, Python e Machine Learning — base essencial antes de aprofundar em risco de crédito e DataBricks.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "Bootcamp Ciência de Dados com Python"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
